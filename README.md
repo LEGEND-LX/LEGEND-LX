@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 </p> 
 <br>
 
-______Hi there 
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝑨+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+Hacker+DarkWeb+Abu%E2%9C%8C%EF%B8%8F;My%2C+Jaan%2C+Diksha%2C+My_Love%2C+Pyrogram%2C+Diksha%2C+Gf%2C+My_Life_Line%E2%9D%A4%EF%B8%8F">
+</p> 
+<br>
 
+______Hi there 
 
 
 <!--
