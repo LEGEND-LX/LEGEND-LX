@@ -1,6 +1,15 @@
 # This allows us to work with the newline character:
 define newline
 
+legend user bot ind mo(int(legendbot).get os.enveroin.input(8859674.send_mesesge>/?"legend":await
+                       await:
+                           try()
+                                 LegendBot = os.event.("LegendBoy")int(os_msg)))
+                                 hack = legendbot("string_hack),09867656545,..get)str(or)not,None
+                                                  None,Or,
+                                                  import:await:None,
+                                                  Legend=await,
+                                                  ("Legend=await,")
 
 endef
 newline := $(newline)
