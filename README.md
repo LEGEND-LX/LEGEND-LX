@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center"><b> ⠐💥💫Personal ★ʟɛɢɛռɖ✘-թπο】Information💫💥 ⠐ </b></h2>
+<h2 align="center"><b> ⠐💥💫Personal【༒©ʟɛɢɛռɖHคckeℝ༒】Information💫💥 ⠐ </b></h2>
 
 <p align='Middle'><a href='https://t.me/LegendHacker_IIN'><img src='https://te.legra.ph/file/8b012f55fc4238151d169.jpg' width='750"'></a></p>
 <p align="center">
